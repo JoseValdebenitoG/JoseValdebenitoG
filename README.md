@@ -1,8 +1,8 @@
-# **Hola, Soy Jose Valdebenito G**
+# 👋🏼 **Hola, Soy Jose Valdebenito G**
 
 ![Black Shirt Dev](logoBSDhoriz.png "BlackShirt logo")
 
-## Desarrollador frontend
+## 👨🏻‍💻 Desarrollador frontend
 
 ### Soy desarrollador frontend autodidacta.
 
@@ -16,11 +16,9 @@ Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnolog�
 
 ---
 
-## 👨🏻‍💻 Tecnologias
+### ‍💻 Tecnologías
 
 ---
-
-<p align='center'>
 
 **HTML** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15"/>
 \| **CSS** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="15" height="15"/>
@@ -34,17 +32,15 @@ Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnolog�
 \| **MySQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
 \| **mongoDB** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
 
-</p>
+---
+
+### 📫 Contactame
 
 ---
 
-## 📫 Contactame
+### 👨🏻‍💻 _*Mi portfolio*_: https://josevaldebenitog.github.io/PortafolioAlura/
 
----
-
-## 👨🏻‍💻 _*Mi portfolio*_: https://josevaldebenitog.github.io/PortafolioAlura/
-
-## 📫 jvaldebenitog@me.com
+### 📫 jvaldebenitog@me.com
 
 <p align="center">
 <a href="https://linkedin.com/in/jvaldebenitog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jvaldebenitog" height="20" width="30" /></a>
