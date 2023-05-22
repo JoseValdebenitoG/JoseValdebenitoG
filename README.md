@@ -20,13 +20,11 @@ Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnolog√
 
 ---
 
-<div style='display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;'>
+<p align='center'>
 
-<span style='color:#fffff;font-weight:bold;background:#be3a34;padding:5px 7px;margin-top:10px'>HTML</span><span style="background:black;padding:5px 7px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15"/></span>
-
-<span style='color:#ffffff;font-weight:bold;background:#0072ce;padding:5px 7px;margin-left:5px'>CSS</span><span style="background:black;padding:5px 7px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="15" height="15"/></span>
-
-<span style='color:#fffff;font-weight:bold;background:#005f66;padding:5px 7px;margin-left:5px'>Python</span><span style="background:#000000;padding:5px 7px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></span>
+HTML<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15"/>
+\| CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="15" height="15"/>
+\| Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>
 
 <span style='color:#fffff;font-weight:bold;background:#005f66;padding:5px 7px;margin-left:5px'>FLASK</span><span style="background:#fff;padding:5px 7px"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="15" height="15"/></span>
 
@@ -44,7 +42,7 @@ Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnolog√
 
 <span style="background:#15a624;color:#fff;font-weight:bold;padding:5px 7px;margin-left:5px">mongoDB</span><span style="background:#fff;padding:5px 7px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/></span>
 
-</div>
+</p>
 
 ---
 
