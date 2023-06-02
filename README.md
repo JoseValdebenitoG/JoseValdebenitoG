@@ -18,10 +18,11 @@ Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnolog�
 
 ---
 
-### ‍💻 Tecnologias conocidas
+### ‍💻 Tecnologías conocidas
 
 [![HTML5](https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/css3-01a6fa?style=for-the-badge&logo=Css3&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7826F0?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/javascript-faff00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/react-00a0ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
@@ -37,6 +38,7 @@ Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnolog�
 
 ### 📫 Contactame
 
+[![Linktree](https://img.shields.io/badge/linktree-blackshirtdev-ff?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/blackshirtdev)
 [![Web](https://img.shields.io/badge/Web-josevaldebenitog.github.io/portafolioalura-101010?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://josevaldebenitog.github.io/PortafolioAlura/)
 [![Instagram](https://img.shields.io/badge/Instagram-@blackshirtdev-ff00ae?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/blackshirtdev)
 [![linkedIn](https://img.shields.io/badge/linkedin-@jvaldebenitog-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jvaldebenitog/)
