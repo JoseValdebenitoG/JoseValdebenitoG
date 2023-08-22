@@ -1,6 +1,6 @@
-# 👋🏼 **Hola, Soy Jose Valdebenito G**
+# **Hola, Soy Jose Valdebenito**
 
-![Black Shirt Dev](logoBSDhoriz.png "BlackShirt logo")
+![Jose Valdebenito](JVBlancoHorSinUrl.png "Jose Valdebenito logo")
 
 ---
 
@@ -38,9 +38,9 @@ Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnolog�
 
 ### 📫 Contactame
 
-[![Linktree](https://img.shields.io/badge/linktree-blackshirtdev-ff?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/blackshirtdev)
+[![Linktree](https://img.shields.io/badge/linktree-josevaldebenito-ff?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/josevaldebenito)
 [![Web](https://img.shields.io/badge/Web-josevaldebenitog.github.io/portafolioalura-101010?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://josevaldebenitog.github.io/PortafolioAlura/)
-[![Instagram](https://img.shields.io/badge/Instagram-@blackshirtdev-ff00ae?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/blackshirtdev)
+[![Instagram](https://img.shields.io/badge/Instagram-@digival.cl-ff00ae?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/digival.cl)
 [![linkedIn](https://img.shields.io/badge/linkedin-@jvaldebenitog-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jvaldebenitog/)
 [![Email](https://img.shields.io/badge/jvaldebenitog@me.com-email_personal-blue?style=for-the-badge&logo=icloud&logoColor=fff&labelColor=101010)](mailto:jvaldebenitog@me.com)
 
