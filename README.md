@@ -14,7 +14,8 @@ Me encuentro en constante aprendizaje buscando una ruta en el desarrollo de soft
 - En 2021 participé en un bootcamp auspiciado por Claro Chile, en el cual aprendí JAVA, con java swing y bases de datos relacionales con MySQL.
 - En 2022 ingresé al programa ONE (Oracle Next Education)en conjunto con Alura Latam, en donde aprendí JavaScript y profundicé mis conocimientos en HTML y CSS.
 
-Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnologías.
+> [!IMPORTANT]
+> Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnologías.
 
 ---
 
@@ -43,6 +44,7 @@ Una vez egresado de ONE he continuado practicando y aprendiendo nuevas tecnolog�
 [![Instagram](https://img.shields.io/badge/Instagram-@digival.cl-ff00ae?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/digival.cl)
 [![linkedIn](https://img.shields.io/badge/linkedin-@jvaldebenitog-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jvaldebenitog/)
 [![Email](https://img.shields.io/badge/jvaldebenitog@me.com-email_personal-blue?style=for-the-badge&logo=icloud&logoColor=fff&labelColor=101010)](mailto:jvaldebenitog@me.com)
+
 
 <!---
 JoseValdebenitoG/JoseValdebenitoG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
