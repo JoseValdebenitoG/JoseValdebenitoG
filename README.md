@@ -1,6 +1,6 @@
 # **Hola, Soy Jose Valdebenito**
 
-![Jose Valdebenito](JVBlancoHorSinUrl.png "Jose Valdebenito logo")
+![Jose Valdebenito](JV-Wbg.png "Jose Valdebenito logo")
 
 ---
 
@@ -44,7 +44,6 @@ Me encuentro en constante aprendizaje buscando una ruta en el desarrollo de soft
 [![Instagram](https://img.shields.io/badge/Instagram-@digival.cl-ff00ae?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/digival.cl)
 [![linkedIn](https://img.shields.io/badge/linkedin-@jvaldebenitog-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jvaldebenitog/)
 [![Email](https://img.shields.io/badge/jvaldebenitog@me.com-email_personal-blue?style=for-the-badge&logo=icloud&logoColor=fff&labelColor=101010)](mailto:jvaldebenitog@me.com)
-
 
 <!---
 JoseValdebenitoG/JoseValdebenitoG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
