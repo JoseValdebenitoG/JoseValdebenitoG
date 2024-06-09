@@ -1,6 +1,6 @@
 # **Hola, Soy Jose Valdebenito**
 
-![Jose Valdebenito](JV-Wbg.png "Jose Valdebenito logo")
+![Jose Valdebenito](bannerjv.png "Jose Valdebenito logo")
 
 ---
 
@@ -27,7 +27,8 @@ Me encuentro en constante aprendizaje buscando una ruta en el desarrollo de soft
 [![JavaScript](https://img.shields.io/badge/javascript-faff00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/react-00a0ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
-[![Python](https://img.shields.io/badge/python-0d689a?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/python-265075?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-11422E?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![Flask](https://img.shields.io/badge/flask-101010?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-ff000d?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/figma-9600ff?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
@@ -40,7 +41,7 @@ Me encuentro en constante aprendizaje buscando una ruta en el desarrollo de soft
 ### 📫 Contactame
 
 [![Linktree](https://img.shields.io/badge/linktree-josevaldebenito-ff?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/josevaldebenito)
-[![Web](https://img.shields.io/badge/Web-josevaldebenitog.github.io/portafolioalura-101010?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://josevaldebenitog.github.io/PortafolioAlura/)
+[![Web](https://img.shields.io/badge/Web-https://josevaldebenito.up.railway.app-E30F1A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://josevaldebenito.up.railway.app)
 [![Instagram](https://img.shields.io/badge/Instagram-@digival.cl-ff00ae?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/digival.cl)
 [![linkedIn](https://img.shields.io/badge/linkedin-@jvaldebenitog-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jvaldebenitog/)
 [![Email](https://img.shields.io/badge/jvaldebenitog@me.com-email_personal-blue?style=for-the-badge&logo=icloud&logoColor=fff&labelColor=101010)](mailto:jvaldebenitog@me.com)
