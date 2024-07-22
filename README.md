@@ -22,6 +22,7 @@ Me encuentro en constante aprendizaje buscando una ruta en el desarrollo de soft
 
 ### ‍💻 Tecnologías conocidas
 
+[![Neovim](https://img.shields.io/badge/neovim-279F3B?style=for-the-badge&logo=neovim&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FE3D0D?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/css3-01a6fa?style=for-the-badge&logo=Css3&logoColor=white&labelColor=101010)]()
