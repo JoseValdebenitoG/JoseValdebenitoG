@@ -27,13 +27,13 @@ Me encuentro en constante aprendizaje buscando una ruta en el desarrollo de soft
 [![HTML5](https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/css3-01a6fa?style=for-the-badge&logo=Css3&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7826F0?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Tailwind](https://img.shields.io/badge/TailwindCSS-34B6F4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/javascript-faff00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/react-00a0ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/python-265075?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-11422E?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![DjangoRestFramework](https://img.shields.io/badge/DjangoRestFramework-b00000?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
-[![Flask](https://img.shields.io/badge/flask-101010?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-ff000d?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/figma-9600ff?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 </br>
