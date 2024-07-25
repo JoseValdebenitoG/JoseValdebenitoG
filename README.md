@@ -4,7 +4,7 @@
 
 ---
 
-## 👨🏻‍💻 Desarrollador Web + iOS
+## 👨🏻‍💻 Desarrollador Web | 📱 Mobile
 
 ### Soy desarrollador web autodidacta, en camino de mobile.
 
